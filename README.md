@@ -1,4 +1,4 @@
-## Executive Financial Crime Dashboard
+## Nigeria Financial Crime Dashboard
 
 ![Executive Financial Crime Dashboard](screenshots/Nigerian_Financial_Crime_Dashboard.png)
 
@@ -10,6 +10,6 @@
 
 ---
 
-## Financial Crime Investigation Dashboard
+## Nigeria Crime Investigation Dashboard
 
 ![Financial Crime Investigation Dashboard](screenshots/Nigeria_Financial_Crime_Investigation_Dashboard.png)
