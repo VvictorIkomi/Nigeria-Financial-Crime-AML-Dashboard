@@ -78,4 +78,10 @@ ________________________________________
 
 This project contains no confidential customer, institutional, or regulatory information. All work was created solely for educational and portfolio purposes using publicly available data
 
+________________________________________
+**Connect With Me**
+If you would like to discuss this project or connect professionally, feel free to reach out.
+LinkedIn: https://www.linkedin.com/in/victor-ikomi-75779317/
+GitHub: https://github.com/VvictorIkomi
+
 
